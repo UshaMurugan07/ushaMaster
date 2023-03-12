@@ -19,4 +19,7 @@ private void test5() {
 private void test6() {
 System.out.println("python");
 }
+private void test7() {
+System.out.println("sql");
+}
 }
